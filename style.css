@@ -1,0 +1,52 @@
+body {
+    background: rgb(221, 221, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: purple;
+    text-align: center;
+    font-style: italic;
+}
+
+.container {
+    display: flexbox;
+    background: white;
+    border-radius: 10px;
+    padding: auto;
+    width: 100%;
+    margin: auto;
+    height: 100%;
+    border: 2px solid black;
+    align-items: auto;
+    justify-content: space-between;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#calcular {
+    border: solid 2pt black;
+    display: flex;
+    padding: auto;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: auto;
+    background-color: white;
+    align-items: center;
+    
+}
+
+
+h2 {
+    text-align: center;
+}
+
+#botao {
+    size: 2000pt;
+    align-items: center;
+}
